@@ -2,23 +2,58 @@ class Solution {
 public:
     int minLength(string s) {
         int n=s.size();
-        stack<char> st;
+        string ans="";
         for(char ch:s){
             if(ch=='B'){
-                if(!st.empty() && st.top()=='A')
-                    st.pop();
+                if(!ans.empty() && ans.back()=='A')
+                    ans.pop_back();
                 else
-                    st.push(ch);
+                    ans.push_back(ch);
             }
             else if(ch=='D'){
-                if(!st.empty() && st.top()=='C')
-                    st.pop();
+                if(!ans.empty() && ans.back()=='C')
+                    ans.pop_back();
                 else
-                    st.push(ch);
+                    ans.push_back(ch);
             }
             else
-                st.push(ch);
+                ans.push_back(ch);
         }
-        return st.size();
+
+        return ans.size();
+
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //     stack<char> st;
+    //     for(char ch:s){
+    //         if(ch=='B'){
+    //             if(!st.empty() && st.top()=='A')
+    //                 st.pop();
+    //             else
+    //                 st.push(ch);
+    //         }
+    //         else if(ch=='D'){
+    //             if(!st.empty() && st.top()=='C')
+    //                 st.pop();
+    //             else
+    //                 st.push(ch);
+    //         }
+    //         else
+    //             st.push(ch);
+    //     }
+    //     return st.size();
+    // }
 };
