@@ -10,8 +10,8 @@ public:
                 else
                     st.push(ch);
             }
-            else if(!st.empty() && ch=='D'){
-                if(st.top()=='C')
+            else if(ch=='D'){
+                if(!st.empty() && st.top()=='C')
                     st.pop();
                 else
                     st.push(ch);
@@ -19,12 +19,6 @@ public:
             else
                 st.push(ch);
         }
-
-        int cnt=0;
-        while(!st.empty()){
-            cnt++;
-            st.pop();
-        }
-        return cnt;
+        return st.size();
     }
 };
