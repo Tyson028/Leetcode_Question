@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Tyson028/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tyson028/Leetcode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tyson028/Leetcode_Question/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Math
@@ -14,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Tyson028/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Tyson028/Leetcode_Question/tree/master/0058-length-of-last-word) |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tyson028/Leetcode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tyson028/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
