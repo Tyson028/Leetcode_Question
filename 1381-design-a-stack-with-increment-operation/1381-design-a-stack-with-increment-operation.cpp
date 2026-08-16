@@ -1,58 +1,42 @@
 class CustomStack {
 private:
-    stack<int> s1;
-    stack<int> s2;
-    int max_cap;
+    vector<int> s1;
+    vector<int> s2;
+    int idx;
+    int maxSize;
 public:
     CustomStack(int maxSize) {
-        max_cap=maxSize;
+        this->maxSize=maxSize;
+        s1.resize(maxSize);
+        s2.resize(maxSize);
+        idx=-1;
     }
     
     void push(int x) {
-        if(s1.empty() || s1.size() < max_cap)
-            s1.push(x);
+        if(idx == maxSize-1) return;
+        idx++;
+        s1[idx]=x;
     }
     
     int pop() {
-        int pop_val=-1;
-        if(s1.empty())
-            return pop_val;
-        else
-            pop_val=s1.top();
-            s1.pop();
-    
-        return pop_val;
+        if(idx==-1)
+            return -1;
+        
+        int result=s1[idx]+s2[idx];
+        if(idx>0){
+            s2[idx-1]+=s2[idx];
+        }
+
+        s2[idx]=0;
+        idx--;
+        return result;
         
     }
     
     void increment(int k, int val) {
-        if(s1.size()<k){
-
-            while(!s1.empty()){
-                s2.push(s1.top()+val);
-                s1.pop();
-            }
-
-            while(!s2.empty()){
-                s1.push(s2.top());
-                s2.pop();
-            }
-        }
-        else{
-            while(s1.size()!=k){
-                s2.push(s1.top());
-                s1.pop();
-            }
-
-            while(!s1.empty()){
-                s2.push(s1.top()+val);
-                s1.pop();
-            }
-            while(!s2.empty()){
-                s1.push(s2.top());
-                s2.pop();
-            }
-        }
+        int index=min(idx,k-1);
+        if(index>=0)
+            s2[index]+=val;
     }
 };
 
