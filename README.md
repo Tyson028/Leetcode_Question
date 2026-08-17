@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tyson028/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1929-concatenation-of-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tyson028/Leetcode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tyson028/Leetcode_Question/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Math
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Tyson028/Leetcode_Question/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1929-concatenation-of-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Tyson028/Leetcode_Question/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
