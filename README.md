@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tyson028/Leetcode_Question/tree/master/0014-longest-common-prefix) |
+| [0414-third-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0414-third-maximum-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1929-concatenation-of-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tyson028/Leetcode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tyson028/Leetcode_Question/tree/master/0402-remove-k-digits) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
