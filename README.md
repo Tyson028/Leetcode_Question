@@ -21,6 +21,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tyson028/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Tyson028/Leetcode_Question/tree/master/0058-length-of-last-word) |
 | [0224-basic-calculator](https://github.com/Tyson028/Leetcode_Question/tree/master/0224-basic-calculator) |
@@ -55,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Tyson028/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -115,4 +117,20 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tyson028/Leetcode_Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
