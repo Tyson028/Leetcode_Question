@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tyson028/Leetcode_Question/tree/master/0014-longest-common-prefix) |
+| [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0414-third-maximum-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tyson028/Leetcode_Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -95,6 +96,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tyson028/Leetcode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -112,6 +114,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0414-third-maximum-number) |
 ## Prefix Sum
 |  |
@@ -133,4 +136,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
