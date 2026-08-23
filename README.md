@@ -26,6 +26,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Tyson028/Leetcode_Question/tree/master/0058-length-of-last-word) |
 | [0224-basic-calculator](https://github.com/Tyson028/Leetcode_Question/tree/master/0224-basic-calculator) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Tyson028/Leetcode_Question/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Tyson028/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0856-score-of-parentheses) |
@@ -93,10 +94,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tyson028/Leetcode_Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tyson028/Leetcode_Question/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tyson028/Leetcode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -144,6 +147,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
