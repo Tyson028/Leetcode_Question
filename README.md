@@ -10,6 +10,7 @@
 | [0414-third-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0414-third-maximum-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tyson028/Leetcode_Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1550-three-consecutive-odds](https://github.com/Tyson028/Leetcode_Question/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Tyson028/Leetcode_Question/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tyson028/Leetcode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
