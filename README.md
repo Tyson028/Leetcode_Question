@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Tyson028/Leetcode_Question/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/Tyson028/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
+| [0321-create-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0321-create-maximum-number) |
 | [0414-third-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0414-third-maximum-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tyson028/Leetcode_Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -56,6 +57,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Tyson028/Leetcode_Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tyson028/Leetcode_Question/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Tyson028/Leetcode_Question/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Tyson028/Leetcode_Question/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Tyson028/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0856-score-of-parentheses) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0321-create-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0321-create-maximum-number) |
 | [0844-backspace-string-compare](https://github.com/Tyson028/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tyson028/Leetcode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Tyson028/Leetcode_Question/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Tyson028/Leetcode_Question/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tyson028/Leetcode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tyson028/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -135,6 +139,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Tyson028/Leetcode_Question/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Tyson028/Leetcode_Question/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tyson028/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
