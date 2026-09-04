@@ -16,60 +16,49 @@ public:
 
         return ans;
     }
-    void merge(vector<int>& ans,vector<int>& v1, vector<int>& v2){
-        int m=v1.size();
-        int n=v2.size();
-        int i=0,j=0;
 
-        while(i < m && j < n) {
 
-        if(v1[i] > v2[j]) {
-            ans.push_back(v1[i]);
+     // Compare remaining parts of two vectors
+    bool greater(vector<int>& a, int i, vector<int>& b, int j) {
+        while(i < a.size() && j < b.size()) {
+            if(a[i] != b[j])
+                return a[i] > b[j];
+
             i++;
-        }
-        else if(v1[i] < v2[j]) {
-            ans.push_back(v2[j]);
             j++;
         }
-        else {
-            int tempi = i;
-            int tempj = j;
 
-            while(tempi < m && tempj < n &&
-                  v1[tempi] == v2[tempj]) {
-                tempi++;
-                tempj++;
-            }
-
-            if(tempj == n || 
-               (tempi < m && v1[tempi] > v2[tempj])) {
-                ans.push_back(v1[i]);
-                i++;
-            }
-            else {
-                ans.push_back(v2[j]);
-                j++;
-            }
-        }
-        }
-        while(i<m){
-            ans.push_back(v1[i]);
-            i++;
-        }
-
-        while(j<n){
-            ans.push_back(v2[j]);
-            j++;
-        }
+        return (a.size() - i) > (b.size() - j);
     }
+
+    vector<int> merge(vector<int>& a, vector<int>& b) {
+        vector<int> res;
+
+        int i = 0, j = 0;
+
+        while(i < a.size() || j < b.size()) {
+
+            if(greater(a, i, b, j))
+                res.push_back(a[i++]);
+            else
+                res.push_back(b[j++]);
+        }
+
+        return res;
+    }
+    
     vector<int> maxNumber(vector<int>& nums1, vector<int>& nums2, int k) {
         vector<int> ans;
-        for(int i=0;i<=k;i++){
-            vector<int> temp1=solve(i,nums1);
-            vector<int> temp2=solve(k-i,nums2);
-            vector<int> temp;
-            merge(temp,temp1,temp2);
-            if(temp.size()==k) ans=max(ans,temp);
+        for(int i = 0; i <= k; i++) {
+
+            if(i > nums1.size() || k-i > nums2.size())
+                continue;
+
+            vector<int> a = solve(i,nums1);
+            vector<int> b = solve(k-i,nums2);
+            vector<int> curr = merge(a, b);
+
+            ans = max(ans, curr);
         }
         return ans;
     }
