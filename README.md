@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Tyson028/Leetcode_Question/tree/master/0224-basic-calculator) |
+| [1486-xor-operation-in-an-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1486-xor-operation-in-an-array) |
 | [3024-type-of-triangle](https://github.com/Tyson028/Leetcode_Question/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tyson028/Leetcode_Question/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
@@ -193,4 +194,8 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Tyson028/Leetcode_Question/tree/master/3024-type-of-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
