@@ -19,6 +19,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tyson028/Leetcode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3024-type-of-triangle](https://github.com/Tyson028/Leetcode_Question/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tyson028/Leetcode_Question/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tyson028/Leetcode_Question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Tyson028/Leetcode_Question/tree/master/0224-basic-calculator) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tyson028/Leetcode_Question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tyson028/Leetcode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tyson028/Leetcode_Question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -201,4 +204,8 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1486-xor-operation-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tyson028/Leetcode_Question/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
