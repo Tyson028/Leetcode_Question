@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Tyson028/Leetcode_Question/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Tyson028/Leetcode_Question/tree/master/0224-basic-calculator) |
 | [0836-rectangle-overlap](https://github.com/Tyson028/Leetcode_Question/tree/master/0836-rectangle-overlap) |
 | [1006-clumsy-factorial](https://github.com/Tyson028/Leetcode_Question/tree/master/1006-clumsy-factorial) |
@@ -78,6 +79,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Tyson028/Leetcode_Question/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Tyson028/Leetcode_Question/tree/master/0224-basic-calculator) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tyson028/Leetcode_Question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
