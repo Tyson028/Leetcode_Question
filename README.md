@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Tyson028/Leetcode_Question/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Tyson028/Leetcode_Question/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Tyson028/Leetcode_Question/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Tyson028/Leetcode_Question/tree/master/0836-rectangle-overlap) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Tyson028/Leetcode_Question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
@@ -228,5 +230,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Tyson028/Leetcode_Question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
