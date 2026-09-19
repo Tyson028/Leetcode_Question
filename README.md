@@ -43,6 +43,7 @@
 | [0058-length-of-last-word](https://github.com/Tyson028/Leetcode_Question/tree/master/0058-length-of-last-word) |
 | [0224-basic-calculator](https://github.com/Tyson028/Leetcode_Question/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Tyson028/Leetcode_Question/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/Tyson028/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Tyson028/Leetcode_Question/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/Tyson028/Leetcode_Question/tree/master/0657-robot-return-to-origin) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Tyson028/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Tyson028/Leetcode_Question/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Tyson028/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
