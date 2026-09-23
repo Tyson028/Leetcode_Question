@@ -13,6 +13,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tyson028/Leetcode_Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1550-three-consecutive-odds](https://github.com/Tyson028/Leetcode_Question/tree/master/1550-three-consecutive-odds) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tyson028/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Tyson028/Leetcode_Question/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1929-concatenation-of-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Tyson028/Leetcode_Question/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -146,6 +147,7 @@
 | [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Tyson028/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tyson028/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Tyson028/Leetcode_Question/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tyson028/Leetcode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tyson028/Leetcode_Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tyson028/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tyson028/Leetcode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Trie
 |  |
@@ -178,6 +181,7 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tyson028/Leetcode_Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tyson028/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String Matching
 |  |
 | ------- |
@@ -242,4 +246,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tyson028/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
