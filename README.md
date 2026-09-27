@@ -56,6 +56,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tyson028/Leetcode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tyson028/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Tyson028/Leetcode_Question/tree/master/1544-make-the-string-great) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -81,6 +82,7 @@
 | [1006-clumsy-factorial](https://github.com/Tyson028/Leetcode_Question/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tyson028/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Tyson028/Leetcode_Question/tree/master/1544-make-the-string-great) |
@@ -118,6 +120,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tyson028/Leetcode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
