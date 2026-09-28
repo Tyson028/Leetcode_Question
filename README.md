@@ -144,6 +144,7 @@
 | [0155-min-stack](https://github.com/Tyson028/Leetcode_Question/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Tyson028/Leetcode_Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tyson028/Leetcode_Question/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0707-design-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0707-design-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0707-design-linked-list) |
 ## Binary Search
 |  |
 | ------- |
