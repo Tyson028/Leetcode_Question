@@ -103,6 +103,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0321-create-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0321-create-maximum-number) |
 | [0844-backspace-string-compare](https://github.com/Tyson028/Leetcode_Question/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Tyson028/Leetcode_Question/tree/master/0905-sort-array-by-parity) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tyson028/Leetcode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
@@ -259,6 +260,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0707-design-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
