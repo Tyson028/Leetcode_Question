@@ -15,7 +15,7 @@ public:
                 if(!st.empty())
                     ans = max(ans,i-st.top());
                 else
-                     st.push(i);
+                    st.push(i);
             }
         }
         return ans;
