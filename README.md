@@ -51,6 +51,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Tyson028/Leetcode_Question/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/Tyson028/Leetcode_Question/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Tyson028/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tyson028/Leetcode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -77,6 +78,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Tyson028/Leetcode_Question/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Tyson028/Leetcode_Question/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Tyson028/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tyson028/Leetcode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tyson028/Leetcode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -132,6 +135,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Tyson028/Leetcode_Question/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Tyson028/Leetcode_Question/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tyson028/Leetcode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tyson028/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
@@ -140,6 +144,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Tyson028/Leetcode_Question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
