@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Tyson028/Leetcode_Question/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Tyson028/Leetcode_Question/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tyson028/Leetcode_Question/tree/master/3483-unique-3-digit-even-numbers) |
@@ -270,6 +271,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Tyson028/Leetcode_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tyson028/Leetcode_Question/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
