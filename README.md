@@ -19,6 +19,7 @@
 | [1929-concatenation-of-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1929-concatenation-of-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Tyson028/Leetcode_Question/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tyson028/Leetcode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Tyson028/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tyson028/Leetcode_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3024-type-of-triangle](https://github.com/Tyson028/Leetcode_Question/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tyson028/Leetcode_Question/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -143,6 +144,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tyson028/Leetcode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tyson028/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Tyson028/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [0414-third-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Tyson028/Leetcode_Question/tree/master/0905-sort-array-by-parity) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Tyson028/Leetcode_Question/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Tyson028/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3024-type-of-triangle](https://github.com/Tyson028/Leetcode_Question/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
 |  |
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Tyson028/Leetcode_Question/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Tyson028/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Geometry
 |  |
 | ------- |
@@ -282,6 +286,7 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tyson028/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Tyson028/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
