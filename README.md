@@ -94,6 +94,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Tyson028/Leetcode_Question/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tyson028/Leetcode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Tyson028/Leetcode_Question/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
@@ -116,6 +117,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Tyson028/Leetcode_Question/tree/master/0905-sort-array-by-parity) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tyson028/Leetcode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [0206-reverse-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
