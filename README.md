@@ -39,6 +39,7 @@
 | [3024-type-of-triangle](https://github.com/Tyson028/Leetcode_Question/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tyson028/Leetcode_Question/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tyson028/Leetcode_Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tyson028/Leetcode_Question/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tyson028/Leetcode_Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tyson028/Leetcode_Question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tyson028/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tyson028/Leetcode_Question/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
