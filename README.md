@@ -73,6 +73,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tyson028/Leetcode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Tyson028/Leetcode_Question/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
