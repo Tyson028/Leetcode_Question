@@ -39,6 +39,7 @@
 | [0836-rectangle-overlap](https://github.com/Tyson028/Leetcode_Question/tree/master/0836-rectangle-overlap) |
 | [1006-clumsy-factorial](https://github.com/Tyson028/Leetcode_Question/tree/master/1006-clumsy-factorial) |
 | [1486-xor-operation-in-an-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1486-xor-operation-in-an-array) |
+| [2409-count-days-spent-together](https://github.com/Tyson028/Leetcode_Question/tree/master/2409-count-days-spent-together) |
 | [3024-type-of-triangle](https://github.com/Tyson028/Leetcode_Question/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tyson028/Leetcode_Question/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tyson028/Leetcode_Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -71,6 +72,7 @@
 | [1805-number-of-different-integers-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tyson028/Leetcode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2409-count-days-spent-together](https://github.com/Tyson028/Leetcode_Question/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Tyson028/Leetcode_Question/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/3863-minimum-operations-to-sort-a-string) |
