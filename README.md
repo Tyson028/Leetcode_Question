@@ -123,6 +123,7 @@
 | [0061-rotate-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Tyson028/Leetcode_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tyson028/Leetcode_Question/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tyson028/Leetcode_Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0321-create-maximum-number) |
@@ -221,6 +222,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Tyson028/Leetcode_Question/tree/master/0905-sort-array-by-parity) |
@@ -253,6 +255,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -306,6 +309,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Tyson028/Leetcode_Question/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Tyson028/Leetcode_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tyson028/Leetcode_Question/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tyson028/Leetcode_Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0234-palindrome-linked-list) |
@@ -331,4 +335,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tyson028/Leetcode_Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
