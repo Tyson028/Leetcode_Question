@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
 | [0321-create-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0321-create-maximum-number) |
 | [0414-third-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Tyson028/Leetcode_Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0905-sort-array-by-parity](https://github.com/Tyson028/Leetcode_Question/tree/master/0905-sort-array-by-parity) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tyson028/Leetcode_Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -35,6 +36,7 @@
 | [0050-powx-n](https://github.com/Tyson028/Leetcode_Question/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Tyson028/Leetcode_Question/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Tyson028/Leetcode_Question/tree/master/0224-basic-calculator) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Tyson028/Leetcode_Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Tyson028/Leetcode_Question/tree/master/0836-rectangle-overlap) |
 | [1006-clumsy-factorial](https://github.com/Tyson028/Leetcode_Question/tree/master/1006-clumsy-factorial) |
