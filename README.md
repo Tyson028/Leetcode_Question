@@ -14,6 +14,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tyson028/Leetcode_Question/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tyson028/Leetcode_Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1470-shuffle-the-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/Tyson028/Leetcode_Question/tree/master/1550-three-consecutive-odds) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tyson028/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Tyson028/Leetcode_Question/tree/master/1672-richest-customer-wealth) |
