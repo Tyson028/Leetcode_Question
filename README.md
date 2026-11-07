@@ -11,6 +11,7 @@
 | [0414-third-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tyson028/Leetcode_Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Tyson028/Leetcode_Question/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Tyson028/Leetcode_Question/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Tyson028/Leetcode_Question/tree/master/0905-sort-array-by-parity) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tyson028/Leetcode_Question/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -206,6 +207,7 @@
 | [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Tyson028/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/Tyson028/Leetcode_Question/tree/master/0645-set-mismatch) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tyson028/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -237,6 +239,7 @@
 | [0148-sort-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tyson028/Leetcode_Question/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/Tyson028/Leetcode_Question/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Tyson028/Leetcode_Question/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tyson028/Leetcode_Question/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tyson028/Leetcode_Question/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -292,6 +295,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Tyson028/Leetcode_Question/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1486-xor-operation-in-an-array) |
 ## Enumeration
 |  |
