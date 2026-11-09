@@ -13,6 +13,7 @@
 | [0485-max-consecutive-ones](https://github.com/Tyson028/Leetcode_Question/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Tyson028/Leetcode_Question/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Tyson028/Leetcode_Question/tree/master/0905-sort-array-by-parity) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tyson028/Leetcode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Tyson028/Leetcode_Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tyson028/Leetcode_Question/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tyson028/Leetcode_Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -208,6 +209,7 @@
 | [0383-ransom-note](https://github.com/Tyson028/Leetcode_Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Tyson028/Leetcode_Question/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tyson028/Leetcode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tyson028/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -241,6 +243,7 @@
 | [0414-third-maximum-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Tyson028/Leetcode_Question/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Tyson028/Leetcode_Question/tree/master/0905-sort-array-by-parity) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tyson028/Leetcode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tyson028/Leetcode_Question/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tyson028/Leetcode_Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Tyson028/Leetcode_Question/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -361,4 +364,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Tyson028/Leetcode_Question/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tyson028/Leetcode_Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
