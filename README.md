@@ -82,6 +82,7 @@
 | [1805-number-of-different-integers-in-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tyson028/Leetcode_Question/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Tyson028/Leetcode_Question/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Tyson028/Leetcode_Question/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/3498-reverse-degree-of-a-string) |
@@ -159,6 +160,7 @@
 | [0844-backspace-string-compare](https://github.com/Tyson028/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 | [1006-clumsy-factorial](https://github.com/Tyson028/Leetcode_Question/tree/master/1006-clumsy-factorial) |
 | [1929-concatenation-of-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Tyson028/Leetcode_Question/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
