@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Tyson028/Leetcode_Question/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Tyson028/Leetcode_Question/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Tyson028/Leetcode_Question/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Tyson028/Leetcode_Question/tree/master/0224-basic-calculator) |
