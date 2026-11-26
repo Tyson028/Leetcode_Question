@@ -52,6 +52,7 @@
 | [2409-count-days-spent-together](https://github.com/Tyson028/Leetcode_Question/tree/master/2409-count-days-spent-together) |
 | [3024-type-of-triangle](https://github.com/Tyson028/Leetcode_Question/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tyson028/Leetcode_Question/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3360-stone-removal-game](https://github.com/Tyson028/Leetcode_Question/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tyson028/Leetcode_Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Tyson028/Leetcode_Question/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Tyson028/Leetcode_Question/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -164,6 +165,7 @@
 | [1929-concatenation-of-array](https://github.com/Tyson028/Leetcode_Question/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Tyson028/Leetcode_Question/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3360-stone-removal-game](https://github.com/Tyson028/Leetcode_Question/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tyson028/Leetcode_Question/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
